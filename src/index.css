@@ -1,0 +1,36 @@
+.car-image-size2{
+    width: 600px;
+    height: 500px;
+    object-fit: contain;
+}
+.car-image-size{
+    width: 300px;
+    height: 250px;
+    object-fit: contain;
+}
+.white-placeholder::placeholder {
+    color: white;
+}
+.myNavBar{
+    background-color: #2b2e4a !important;
+}
+.topBar{
+    background-color: #1C1E32 !important;
+    color: red !important;
+    
+}
+.topBar a i {
+    color: white !important;
+} 
+.topBar a  {
+    color: white !important;
+    text-decoration: none;
+} 
+
+.icons a i {
+    color: #ffc107 ;
+}
+
+.whiteText{
+    color: white;
+}
